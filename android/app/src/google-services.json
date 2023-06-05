@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588184352068",
+    "project_id": "ecosafe-project-65707",
+    "storage_bucket": "ecosafe-project-65707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588184352068:android:488cd7abc7e70849989311",
+        "android_client_info": {
+          "package_name": "com.example.ecosofe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4WKLYP7m4Up-zMG9178JjH4BKM64svc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
